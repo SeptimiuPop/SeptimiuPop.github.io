@@ -1,0 +1,24 @@
+@font-face {
+    font-family: lospix;
+    src: url("../Fonts/lospix-font/LospixMedium-7eDB.ttf");
+}    
+
+@font-face {
+    font-family: italic;
+    src: url("../Fonts/manaspace/manaspc.ttf");
+}
+
+@font-face {
+    font-family: small;
+    src: url("../Fonts/press-start/prstartk.ttf");
+}
+
+@font-face {
+    font-family: OG;
+    src: url("../Fonts/pokemon-gb-font/PokemonGb-RAeo.ttf");
+}
+
+@font-face {
+    font-family: white-fill;
+    src: url("../Fonts/back-to-1982/BACKTO1982.TTF"); 
+}
