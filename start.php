@@ -1,3 +1,4 @@
+<?php require_once("Functions/initialize.php"); ?>
 <html>
     <head>
         <title>Start</title>
