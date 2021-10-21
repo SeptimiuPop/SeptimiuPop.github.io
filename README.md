@@ -1,1 +1,2 @@
-# SeptimiuPop.github.io
+# Septimiu Pop website
+https://septimiupop.github.io/
