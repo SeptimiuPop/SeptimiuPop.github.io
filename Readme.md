@@ -1,3 +1,3 @@
 Hi there!
 
-Welcome behind the scene to my website. Enjoy!
+Welcome to my website's backstage. I hope you enjoy!
